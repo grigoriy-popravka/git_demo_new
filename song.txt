@@ -12,3 +12,5 @@ If I'm alone I cannot hate
 I don't deserve to have you
 Ooh, my smile was taken long ago
 If I can change I hope I never know
+
+#this is a comment
